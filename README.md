@@ -38,20 +38,6 @@ instagrame-hacking is a bash based script which is officially made to test passw
 * Now you need internet connection to continue further process...
 * Note:- Don't delete any of the scripts included in core files
 * Open new session and start TOR (tor or vpn) before starting the attack
-## 🔗 ***Check this***
-### Subscribe our channel on youtube:
-https://youtu.be/VIvsSMsk1C0
- 
-## 👥 ***Join***
-### Facebook group:
-https://www.facebook.com/AKASHBLACKHAT
-
-### Instagram:
-
-https://instagram.com/akashblackhat?igshid=ZDdkNTZiNTM=
-
-### My GitHub ID link:
-https://github.com/akashblackhat
 
 ### 📢 Warning
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***

@@ -20,7 +20,7 @@ instagrame-hacking is a bash based script which is officially made to test passw
     sudo apt install python3
     git clone https://github.com/Racksyln2/H.git
     ls
-    cd instagrame-hacking.py
+    cd h.py
     ls
     sudo python3 instagrame-hacking.py
 # Termux Installation :
